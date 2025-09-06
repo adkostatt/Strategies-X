@@ -1,3 +1,5 @@
+# It is not my project or something, im just forked it when it was a public repository, nothing else
+
 <br/>
 <p align="center">
   <h3 align="center">Strategies X [Alpha]</h3>
